@@ -1,3 +1,3 @@
 <?php
-	@print "Hola {$argv[1]}\n";
+@print "Hola mundo, {$argv[1]}\n";
 ?>
