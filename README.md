@@ -1,8 +1,8 @@
 # Curso de GIT
 
-Este proyecto contiene el curso de introducción a GIT
+Este proyecto contiene pruebas de introducción a GIT
 
-Y aqui practico markdown.
+# Y aqui practico markdown.
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget nulla sit amet nulla vulputate imperdiet. Sed auctor lectus at dui sodales, in consequat ante commodo. Nullam laoreet arcu neque, at feugiat nunc venenatis in. In dignissim ac leo id condimentum. Quisque a eleifend quam. Duis pretium neque nibh, in blandit mauris fermentum sed. Ut urna nibh, scelerisque cursus congue vel, auctor ut elit.*
 
