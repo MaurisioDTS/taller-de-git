@@ -1,4 +1,4 @@
-# Curso de GIT
+# Curso de GIT 2014
 
 Este proyecto contiene pruebas de introducción a GIT
 
